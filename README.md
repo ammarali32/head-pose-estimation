@@ -11,5 +11,6 @@ to run this project in your computer you need:
 * Numpy
 * matplotlib
 * scipy
-also don't foget to download the tiny YOLO weights and the Dlib predictor
+* torchvision
+* also don't foget to download the tiny YOLO weights and the Dlib predictor
 to run this code in GPU please copy the code inside "hpefinalgpu.py" and paste it inside "hpefinal.py"
